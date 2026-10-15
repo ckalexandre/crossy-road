@@ -1,0 +1,22 @@
+# Highscore
+high_score.txt
+
+# Tests
+htmlcov*
+
+# Devenv & direnv
+devenv*
+.devenv*
+.direnv
+.envrc
+
+# pre-commit
+.pre-commit-config.yaml
+
+# Cache
+__pycache__*
+.coverage*
+.DS_store*
+
+# Venv
+.venv
